@@ -1,0 +1,23 @@
+body {
+  padding: 5em 1em;
+  background-image: url(https://media.pitchfork.com/photos/5eb04c24ce714c8d7cfce6f1/16:9/w_1280,c_limit/Dark%20Lane%20Demo%20Tapes_Drake.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center; 
+  
+}
+
+#h1{
+  color:white;
+  text-align: center;
+}
+table, th, td{
+  border: 1px solid black;
+  background-color: pink;
+  margin-left: auto;
+  margin-right: auto;
+}
+caption, th, td{
+  border: 1px solid black;
+  background-color: pink;
+}
